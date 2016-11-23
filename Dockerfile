@@ -7,7 +7,3 @@ MAINTAINER Spencer Hooks
 
 RUN apt-get update
 RUN apt-get install -y bluetooth bluez blueman
-
-##################################################
-# Install homebridge                             #
-##################################################
