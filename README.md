@@ -1,2 +1,2 @@
 # learning-docker
-Learning docker and trying to build my own image for home bridge
+Learning docker and trying to build my own image for my sunrise alarm
